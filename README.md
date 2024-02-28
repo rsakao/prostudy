@@ -1,2 +1,2 @@
 # prostudy
-program study
+プログラム練習リポジトリ
